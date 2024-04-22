@@ -1,0 +1,13 @@
+UNK
+job
+hobby
+resistance
+family
+age
+gender
+name
+marriage
+education
+greeting
+goodby
+other
